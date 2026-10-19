@@ -6,7 +6,8 @@ A production-grade, feature-rich portfolio and learning platform built with Reac
 
 ## Live Preview
 
-<img width="2974" alt="Home Page" src="https://github.com/user-attachments/assets/cdc26b34-d93c-4963-9710-7f1c8cfd5602" />
+<img width="2962" alt="Home Page" height="1648" alt="Image" src="https://github.com/user-attachments/assets/c5444bcf-1c50-4856-8910-672c8a975ecc" />
+
 
 ---
 
@@ -39,7 +40,7 @@ The admin (portfolio owner) has complete control over all content through a dedi
 
 ### Public Portfolio
 
-<img width="2578" alt="About Page" src="https://github.com/user-attachments/assets/256f3c93-a9a0-4743-b69a-6f7a9f4e8ae3" />
+<img width="2896" alt="About Page" height="1646" alt="Image" src="https://github.com/user-attachments/assets/afc9e608-910f-48f2-b94e-1562fb393a08" />
 
 The portfolio consists of a landing page, an about section with animated skill proficiency bars, a projects gallery with filtering, a work experience and education timeline, certificates, and a contact form that delivers messages to the admin email.
 
